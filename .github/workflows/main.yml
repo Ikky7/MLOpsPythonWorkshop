@@ -9,7 +9,7 @@ on:
 env:
   PNPM_VERSION: 8.5.1
   PYTHON_VERSION: 3.10.13
-  NODE_VERSION: 18
+  NODE_VERSION: 18 
   AZURE_RESOURCE_GROUP_NAME: "azure-ml-phrt"
   AZURE_LOCATION: "northeurope"
   AZURE_ML_WORKSPACE_NAME: "cats-dogs-phrt"
